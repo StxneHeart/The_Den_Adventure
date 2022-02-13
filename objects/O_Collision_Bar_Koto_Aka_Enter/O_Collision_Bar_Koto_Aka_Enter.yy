@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Object_Collision",
-    "path": "folders/Object_Collision.yy",
+    "name": "Object_Collision_Enter_Exit",
+    "path": "folders/Object_Collision_Enter_Exit.yy",
   },
   "resourceVersion": "1.0",
   "name": "O_Collision_Bar_Koto_Aka_Enter",

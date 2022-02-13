@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "S_Collision",
-    "path": "sprites/S_Collision/S_Collision.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": {
@@ -33,7 +30,7 @@
     "path": "folders/Object_Collision_Enter_Exit.yy",
   },
   "resourceVersion": "1.0",
-  "name": "O_Collision_Bar_Koto_Aka_Exit",
+  "name": "O_Collision_Koto_Aka_Enter",
   "tags": [],
   "resourceType": "GMObject",
 }

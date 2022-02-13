@@ -79,3 +79,16 @@ if(keyboard_check(vk_escape))
 {
 	room_goto(PauseMenu);
 }
+
+//Teleportation//
+
+if(keyboard_check(ord("E")))
+{
+	if(place_meeting(x , y , O_Collision_Bar_Koto_Aka_Exit))
+	{
+		room_goto(Koto_Aka);
+		x = x + 346.8;
+		y = y - 320;
+	
+	}
+}

@@ -1,14 +1,11 @@
 {
   "spriteId": {
-    "name": "S_Collision",
-    "path": "sprites/S_Collision/S_Collision.yy",
+    "name": "S_Door_Bar",
+    "path": "sprites/S_Door_Bar/S_Door_Bar.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
-  "spriteMaskId": {
-    "name": "S_Collision",
-    "path": "sprites/S_Collision/S_Collision.yy",
-  },
+  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -23,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Object_Collision_Enter_Exit",
-    "path": "folders/Object_Collision_Enter_Exit.yy",
+    "name": "Object_Object_For_Map",
+    "path": "folders/Object_Object_For_Map.yy",
   },
   "resourceVersion": "1.0",
-  "name": "O_Collision_Bar_Koto_Aka_Exit",
+  "name": "O_Door_Bar",
   "tags": [],
   "resourceType": "GMObject",
 }

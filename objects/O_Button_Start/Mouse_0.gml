@@ -1,1 +1,1 @@
-room_goto(Koto_Aka)
+room_goto(Koto_Aka_Forest)
